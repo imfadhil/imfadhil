@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**imfadhil/imfadhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my my final essay for my graduation requirements on twitter trending topic classification
+- 🌱 I’m currently learning Data Analytics and Data Science for continous improvement!😄
+- 📫 How to reach me:
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
 
-Here are some ideas to get you started:
+[1.1]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[2.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[1]: https://www.linkedin.com/in/imfadhil/
+[2]: https://www.instagram.com/fad.hil/
+
+- ⚡ Fun fact: beside Data Enthusiast i'm also a Nasi Goreng Enthusiats
