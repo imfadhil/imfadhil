@@ -1,4 +1,4 @@
-### Hello there 👋
+### Howdy, folks! 👋
 
 - 🔭 I’m currently working on my my final essay for my graduation requirements on twitter trending topic classification
 - 🌱 I’m currently learning Data Analytics and Data Science for continous improvement!✨
