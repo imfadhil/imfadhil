@@ -1,8 +1,8 @@
 ### Hello there 👋
 
 - 🔭 I’m currently working on my my final essay for my graduation requirements on twitter trending topic classification
-- 🌱 I’m currently learning Data Analytics and Data Science for continous improvement!😄
-- 📫 How to reach me: <br/>
+- 🌱 I’m currently learning Data Analytics and Data Science for continous improvement!✨
+- 📫 How to reach me: <br/> <br/>
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 
@@ -12,4 +12,4 @@
 [1]: https://www.linkedin.com/in/imfadhil/
 [2]: https://www.instagram.com/fad.hil/
 
-- ⚡ Fun fact: beside Data Enthusiast i'm also a Nasi Goreng Enthusiats
+- ⚡ Fun fact: beside Data Enthusiast i'm also a Nasi Goreng Enthusiats😄😄
