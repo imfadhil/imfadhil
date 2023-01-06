@@ -1,6 +1,5 @@
 ### Howdy, folks! 👋
 
-- 🔭 I’m currently working on my my final essay for my graduation requirements on twitter trending topic classification
 - 🌱 Learning Data Analytics and Data Science for continous improvement!✨
 - 📫 How to reach me: <br/> <br/>
 [![alt text][1.1]][1]
